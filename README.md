@@ -14,7 +14,7 @@
 Используя приложенные скрипты, проведите тестовую отправку и получение сообщения.
 Для отправки сообщений необходимо запустить скрипт producer.py.
 
-Для выполнения пришлось модифицировать скрипт consumer.py по туториалу https://www.rabbitmq.com/tutorials/tutorial-one-python.html .
+Для выполнения пришлось модифицировать скрипт consumer.py по туториалу https://www.rabbitmq.com/tutorials/tutorial-one-python.html и добавить виртуальный хост netology.
 
 <details>
   <summary>consumer.py</summary>
